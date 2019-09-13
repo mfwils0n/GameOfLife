@@ -3,10 +3,10 @@ class Universe:
 		self.width=w
 		self.height=h
 
-#	def __str__(self):
-#		# string representation when you call str() on the object
-#		# gets called when you call print() on the object
-#		pass	
+	def __str__(self):
+		# string representation when you call str() on the object
+		# gets called when you call print() on the object
+		return 'Univeerrrseeee!!!!????'	
 #
 #	def __get__(self):
 #		# gets called when you try to access indexes (object[3])
